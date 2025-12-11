@@ -1,5 +1,6 @@
 ![Honkai](Honkai.jpeg)
 
+Disclaimer : Dibuat untuk memenuhi Tugas Mata Kuliah Dasar Pemrograman 11 Desember 2025 (Pertemuan 12) Kepada [Bp. Deden Istiawan](https://github.com/dedenistiawan) dari [Muhammad Rizki Alfareza A320250032](https://github.com/Alfareza26)
 # Menu Program Python Sederhana
 
 ## Fitur
@@ -19,7 +20,4 @@ Program ini memiliki 5 menu yang dapat diakses melalui menu:
 -   Python 3.10+
 
 ## Author
-
-Dibuat oleh [Muhammad Rizki Alfareza](https://github.com/Alfareza26)
-
-Made With Visual Studio Code - Insiders
+Alfareza26 with Visual Studio Code - Insiders
